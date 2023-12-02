@@ -1,0 +1,1 @@
+int pesquisar_valor(FILE *arq);
