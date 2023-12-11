@@ -1,2 +1,0 @@
-cp Aluno Professor Nota Turno Ano 
-1 Flawbert Gisa 9.50 M 2023 
