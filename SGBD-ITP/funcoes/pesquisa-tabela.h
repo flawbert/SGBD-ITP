@@ -1,1 +1,0 @@
-int pesquisaV(FILE *doc);
